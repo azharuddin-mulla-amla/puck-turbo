@@ -24,6 +24,7 @@ const config: Config<{
             {children}
             <ProfileCard />
             <div className="test">helo</div>
+            {/* Add Tailwind CSS - Reference: https://tailwindflex.com/ */}
           </div>
         );
       },
